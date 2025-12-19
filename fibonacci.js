@@ -37,5 +37,3 @@ const NUM_LOOPS = 9;
 for (let i = 0; i < NUM_LOOPS; i++) console.log("i = ", i, "\n", fibs(i));
 
 for (let i = 0; i < NUM_LOOPS; i++) console.log("i = ", i, "\n", fibsRec(i));
-
-console.log([1, 2, 3][5]);
